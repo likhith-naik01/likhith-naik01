@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LIKHITH NAIK
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning web development and gen ai
 - 📫 How to reach me likhithnaik01@gmail.com
 
