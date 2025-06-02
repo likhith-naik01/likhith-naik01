@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Likhith Naik</h1>
-<h3 align="center">Aspiring Deep Learning and ML Engineer with a keen interest in application development!</h3>
+<h3 align="center">Aspiring Machine Learning Engineer & Cybersecurity Enthusiast 🔐🤖</h3>
 
-- 🌱 I’m currently learning **Pytorch, React, Node.js, Javax**
+- 🌱 I’m currently learning **PyTorch, Scikit-learn, React, Node.js, Cybersecurity Tools**
 - 📫 How to reach me: **likhithnaik01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
