@@ -9,8 +9,8 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/likhith-naik-051006327" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Likhith Naik" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/likhith-naik-051006327" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
@@ -18,53 +18,91 @@
 
 <h3 align="left">🧠 Machine Learning & AI:</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://opencv.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 <h3 align="left">🔐 Cybersecurity Tools:</h3>
 <p align="left">
-  <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" alt="Kali Linux" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_icon.svg" width="40" height="40"/></a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Metasploit_logo.svg" width="40" height="40"/></a>
+  <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" alt="Metasploit" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://avatars.githubusercontent.com/u/18032235?s=280&v=4" width="40" height="40"/></a>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burp/burp-original.svg" alt="Burp Suite" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://owasp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Owasp-logo_transparent.png" width="40" height="40"/></a>
+  <a href="https://owasp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/owasp/owasp-original.svg" alt="OWASP" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://nmap.org/" target="_blank"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" height="40"/></a>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="Nmap" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 <h3 align="left">💻 Web Development & Tools:</h3>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
 </p>
 
 ---
