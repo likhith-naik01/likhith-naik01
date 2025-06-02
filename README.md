@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @LIKHITH NAIK
-- 🌱 I’m currently learning web development and gen ai
-- 📫 How to reach me likhithnaik01@gmail.com
-
-
-https://www.linkedin.com/in/likhith-naik-051006327/
-
 <h1 align="center">Hey, I'm Likhith Naik</h1>
 <h3 align="center">Aspiring Deep Learning and ML Engineer with a keen interest in application development!</h3>
 
